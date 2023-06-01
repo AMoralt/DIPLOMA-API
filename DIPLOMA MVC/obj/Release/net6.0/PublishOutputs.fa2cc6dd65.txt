@@ -1,0 +1,13 @@
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\DIPLOMA MVC.exe
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\appsettings.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\DIPLOMA MVC.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\DIPLOMA MVC.deps.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\DIPLOMA MVC.runtimeconfig.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\DIPLOMA MVC.pdb
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\DelaunatorSharp.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\MathNet.Numerics.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\NetTopologySuite.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\NetTopologySuite.Features.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\NetTopologySuite.IO.GeoJSON.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\publish\Newtonsoft.Json.dll

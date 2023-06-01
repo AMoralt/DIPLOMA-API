@@ -1,0 +1,38 @@
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\appsettings.Development.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\appsettings.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\DIPLOMA MVC.staticwebassets.runtime.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\DIPLOMA MVC.exe
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\DIPLOMA MVC.deps.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\DIPLOMA MVC.runtimeconfig.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\DIPLOMA MVC.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\DIPLOMA MVC.pdb
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\DelaunatorSharp.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\MathNet.Numerics.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\NetTopologySuite.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\NetTopologySuite.Features.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\NetTopologySuite.IO.GeoJSON.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.csproj.AssemblyReference.cache
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.AssemblyInfoInputs.cache
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.AssemblyInfo.cs
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.csproj.CoreCompileInputs.cache
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.RazorAssemblyInfo.cache
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.RazorAssemblyInfo.cs
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\scopedcss\bundle\DIPLOMA MVC.styles.css
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\scopedcss\projectbundle\DIPLOMA MVC.bundle.scp.css
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.csproj.CopyComplete
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\refint\DIPLOMA MVC.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.pdb
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\DIPLOMA MVC.genruntimeconfig.cache
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\ref\DIPLOMA MVC.dll
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\staticwebassets\msbuild.DIPLOMA MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\staticwebassets\msbuild.build.DIPLOMA MVC.props
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.DIPLOMA MVC.props
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.DIPLOMA MVC.props
+C:\Users\AMoralt\RiderProjects\DIPLOMA MVC\DIPLOMA MVC\obj\Release\net6.0\staticwebassets.pack.json

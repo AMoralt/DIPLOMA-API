@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Обработка GeoJSON";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    Эта программа позволяет обработать файл GeoJSON, содержащий MultiPoint, и вычислить пространственные изолинии, используя вводимые пользователем значения.
+    Результатом будет текст в формате GeoJSON, который можно скачать для дальнейшего использования.
+    Дополнительную информацию о формате GeoJSON вы можете найти на сайте <a href="https://geojson.org/" target="_blank">GeoJSON.org</a>.
+</p>
+
+<form class="form" method="post" enctype="multipart/form-data" asp-controller="File" asp-action="Upload">
+    <div class="form-group">
+        <label for="fileInput">Загрузите файл GeoJSON:</label><br/>
+        <input type="file" id="fileInput" name="file" class="form-control-file my-2" required />
+        
+    </div>
+    @if (ViewData.ModelState["File"]?.Errors.Count > 0)
+            {
+                <span class="text-danger">@ViewData.ModelState["File"]?.Errors[0].ErrorMessage</span>
+            }
+    <div class="form-group">
+        <label for="numberInput">Введите данные для расчета изолиний:</label>
+        <input type="text" id="numberInput" name="Numbers" class="form-control my-2" placeholder="[ 2, 3, 4]" required />
+        @if (ViewData.ModelState["Numbers"]?.Errors.Count > 0)
+        {
+            <span class="text-danger">@ViewData.ModelState["Numbers"]?.Errors[0].ErrorMessage</span>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary my-2">Обработать</button>
+    @if (!String.IsNullOrEmpty(ViewData["Error"] as string))
+    {
+        <div class="alert alert-danger mt-2">@ViewData["Error"]</div>
+    }
+</form>
